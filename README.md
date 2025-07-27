@@ -18,7 +18,7 @@ The model is trained using scikit-learn on a synthetic or real medical dataset. 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/cancer-prediction-streamlit.git
+git clone https://github.com/omargomez2/BloodCancerRiskEstimator.git
 cd cancer-prediction-streamlit
 ```
 
@@ -79,5 +79,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📫 Contact
 
-Built by [Your Name](https://www.linkedin.com/in/yourprofile)  
+Built by Omar S. Gómez (https://www.linkedin.com/in/omargomez)
 Feel free to connect or provide feedback!
